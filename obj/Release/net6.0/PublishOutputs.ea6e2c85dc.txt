@@ -1,0 +1,6 @@
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\publish\bakf.exe
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\publish\bakf.dll
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\publish\bakf.deps.json
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\publish\bakf.runtimeconfig.json
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\publish\bakf.pdb
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\publish\CommandLine.dll

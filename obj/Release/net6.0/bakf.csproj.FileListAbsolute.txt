@@ -1,0 +1,17 @@
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\bakf.exe
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\bakf.deps.json
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\bakf.runtimeconfig.json
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\bakf.dll
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\bakf.pdb
+D:\Miscellaneous\PetProjects\CSharp\bakf\bin\Release\net6.0\CommandLine.dll
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.csproj.AssemblyReference.cache
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.AssemblyInfoInputs.cache
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.AssemblyInfo.cs
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.csproj.CoreCompileInputs.cache
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.csproj.CopyComplete
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.dll
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\refint\bakf.dll
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.pdb
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\bakf.genruntimeconfig.cache
+D:\Miscellaneous\PetProjects\CSharp\bakf\obj\Release\net6.0\ref\bakf.dll

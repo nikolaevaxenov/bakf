@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "napxghjH3e1s2p99rGiOTmDT0bEPcmVHIiEioKx4AG72jNP28JNpSmQmyaVesj1XTsb6vy+0dLmu0cij59J1bA==",
+  "success": true,
+  "projectFilePath": "D:\\Miscellaneous\\PetProjects\\CSharp\\bakf\\bakf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.8\\microsoft.netcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\ivan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
